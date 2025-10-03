@@ -5,7 +5,7 @@
   <meta name="description" content="SmartTech Hustle - Tech Trends, AI Tools, and Digital Side Hustles">
   <meta name="keywords" content="AI Tools, Tech Trends, Side Hustles, Earn Online, SmartTech Hustle">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SmartTech Hustle</title>
+ 
 </head>
 <body>
   <h1>🚀 Welcome to SmartTech Hustle</h1>
